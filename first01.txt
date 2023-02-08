@@ -1,0 +1,13 @@
+yes, this is first file
+
+GitHub :- Working with remote repositary
+
+repositary name :- GitTutorialDemo
+
+Git Bash Open :- 
+1. git status
+2. git remote
+3. git remote add origin git@sithub.com:arunchoudhary1999/GitTutorialDemo.git
+4. git remote
+5. git remote -v
+6. git push -u origin maste
